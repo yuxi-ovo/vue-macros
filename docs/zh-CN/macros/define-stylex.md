@@ -79,8 +79,6 @@ import {
   attrs as _stylex_attrs,
   create as _stylex_create,
 } from '@stylexjs/stylex'
-
-// ...
 </script>
 
 <template>
